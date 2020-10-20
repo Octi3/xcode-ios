@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  trail
+//  PlannerApp
 //
-//  Created by Pankaj kumar on 26/09/20.
+//  Created by Pankaj kumar on 20/10/20.
 //  Copyright © 2020 Pankaj kumar. All rights reserved.
 //
 
